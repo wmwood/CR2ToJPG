@@ -1,4 +1,4 @@
 CR2ToJPG
 ========
 
-A very fast and efficient cr2 to jpg converter.
+A very fast and efficient Camera Raw(.CR2) to Jpeg converter written in C#
